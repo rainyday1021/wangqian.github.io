@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.android.pixel.color",
+    "sha256_cert_fingerprints":
+    ["3D:AE:1E:11:24:64:7F:4D:3C:8E:0E:BD:12:D1:4A:7F:92:FB:75:41:A2:86:50:90:48:6D:BC:ED:78:C2:7F:4A"]
+  }
+}]
